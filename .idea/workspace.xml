@@ -45,7 +45,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -113,7 +113,7 @@
       <workItem from="1649828846998" duration="3519000" />
       <workItem from="1649835100433" duration="494000" />
       <workItem from="1649835874825" duration="442000" />
-      <workItem from="1649836517724" duration="6606000" />
+      <workItem from="1649836517724" duration="7412000" />
     </task>
     <servers />
   </component>
