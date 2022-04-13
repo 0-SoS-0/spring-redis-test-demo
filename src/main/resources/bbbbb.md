@@ -13,4 +13,10 @@
   > 2、git config --global user.email="15924630084@163.com" :配置邮箱（一般是git登录邮箱）
   > 
   > 3、git config --global --list :查看当前配置的用户信息
+  > 
+> 
+> 
+> 
+> 
+> 
     
