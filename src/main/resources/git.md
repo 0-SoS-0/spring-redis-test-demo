@@ -14,3 +14,4 @@
   > 
   > 3、git config --global --list :查看当前配置的用户信息
     
+- git rm 文件名 ：删除指定文件
