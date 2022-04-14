@@ -39,4 +39,7 @@ public class RedisConfig {
 
         return template;
     }
+    public void test(){
+
+    }
 }

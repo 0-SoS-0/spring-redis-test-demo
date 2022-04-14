@@ -13,8 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -113,7 +115,7 @@
       <workItem from="1649828846998" duration="3519000" />
       <workItem from="1649835100433" duration="494000" />
       <workItem from="1649835874825" duration="442000" />
-      <workItem from="1649836517724" duration="7911000" />
+      <workItem from="1649836517724" duration="13582000" />
     </task>
     <servers />
   </component>
