@@ -21,6 +21,11 @@ class SpringDataRedisDemoApplicationTests {
 
     @Test
     void contextLoads() {
+
+        long tim2=20;
+               tim2 -= 200 - 8;
+
+        logger.info("user:test:01 :{}",tim2);
     }
 
 
